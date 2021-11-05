@@ -179,16 +179,6 @@ while True:
 		writer.clear()
 		writer.write(f"{score1} | {score2}", font=("OpenSans",21,"bold"), align="center")
 
-	# if counter == 100:
-	# 		FPS = 1/500000
-	# if counter == 200:
-	# 		FPS = 1/600000
-	# if counter == 300:
-	# 		FPS = 1/700000
-	# if counter == 400:
-	# 		FPS = 1/800000
-	# if counter == 500:
-	# 		FPS = 1/900000
 	
 	
 	screen.update()
